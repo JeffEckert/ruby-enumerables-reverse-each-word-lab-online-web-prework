@@ -14,5 +14,5 @@ def reverse_each_word(array)
   
   reversed_array = new_array.each {|x| x.reverse!}
   
-  return reversed_array
+  return reversed_array("")
 end
