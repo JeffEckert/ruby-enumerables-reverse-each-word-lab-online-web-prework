@@ -10,6 +10,6 @@
 
 
 def reverse_each_word
-  string = string.split('')
+  new_array = array.split('')
   
   reversed_array = 
